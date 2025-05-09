@@ -1,16 +1,20 @@
-## Hi there 👋
+## **👋 Senior Python Developer**  
 
-<!--
-**codeplaneteer/codeplaneteer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **🛠️ Core Skills**  
 
-Here are some ideas to get you started:
+### **Backend Development**  
+- **Languages:** Python (Expert), TypeScript, SQL  
+- **Frameworks:** Django, FastAPI, Flask, Celery  
+- **APIs:** REST, GraphQL, WebSockets, gRPC  
+- **Databases:** PostgreSQL, Redis, MongoDB, DynamoDB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Cloud & DevOps**  
+- **Cloud:** AWS (Lambda, ECS, RDS), GCP, Serverless  
+- **Infrastructure:** Terraform, Kubernetes, Docker  
+- **CI/CD:** GitHub Actions, Jenkins, ArgoCD  
+- **Monitoring:** Prometheus, Grafana, ELK  
+
+### **Software Engineering**  
+- **Testing:** Pytest, unittest, TDD  
+- **Architecture:** Microservices, Event-Driven, DDD  
+- **Performance:** AsyncIO, Caching, Query Optimization  
